@@ -54,7 +54,7 @@
     "memory-chunk-store": "^1.2.0",
     "mime": "^2.4.0",
     "multistream": "^4.0.0",
-    "nat-pmp": "github:yciabaud/node-nat-pmp#patch-1",
+    "nat-pmp": "github:rangermauve/node-nat-pmp#fixes",
     "nat-upnp": "^1.0.4",
     "network": "^0.3.2",
     "package-json-versionify": "^1.0.2",
